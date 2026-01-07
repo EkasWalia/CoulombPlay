@@ -18,17 +18,9 @@ CoulombPlay is an interactive 2D simulation of charged particles and their elect
 Install dependencies with:
 
 ```bash
-python3 -m pip install arcade
 
 Copyright
 Copyright © 2026 <Your Name>.
-All rights reserved.
-
-Permission is granted to view, run, and modify this project for personal or educational use.
-Redistribution or use in commercial products is not allowed without explicit written permission from the author.
-
-Copyright
-Copyright © 2026 Ekas Walia.
 All rights reserved.
 
 Permission is granted to view, run, and modify this project for personal or educational use.
