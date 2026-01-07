@@ -20,7 +20,7 @@ Install dependencies with:
 ```bash
 
 Copyright
-Copyright © 2026 <Your Name>.
+Copyright © 2026 Ekas Walia.
 All rights reserved.
 
 Permission is granted to view, run, and modify this project for personal or educational use.
